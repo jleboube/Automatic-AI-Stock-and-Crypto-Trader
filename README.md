@@ -3,17 +3,15 @@
 <div align="center">
 
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
-[![GitHub stars](https://img.shields.io/github/stars/jleboube/Strike-Zone-Alignment-Score?style=social)](https://github.com/jleboube/Strike-Zone-Alignment-Score/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/jleboube/Strike-Zone-Alignment-Score?style=social)](https://github.com/jleboube/Strike-Zone-Alignment-Score/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/jleboube/Strike-Zone-Alignment-Score)](https://github.com/jleboube/Strike-Zone-Alignment-Score/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/Strike-Zone-Alignment-Score)](https://github.com/jleboube/Strike-Zone-Alignment-Score/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/jleboube/Automatic-AI-Stock-and-Crypto-Trader?style=social)](https://github.com/jleboube/Automatic-AI-Stock-and-Crypto-Trader/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jleboube/Automatic-AI-Stock-and-Crypto-Trader?style=social)](https://github.com/jleboube/Automatic-AI-Stock-and-Crypto-Trader/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/jleboube/Automatic-AI-Stock-and-Crypto-Trader)](https://github.com/jleboube/Automatic-AI-Stock-and-Crypto-Trader/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jleboube/Automatic-AI-Stock-and-Crypto-Trader)](https://github.com/jleboube/Automatic-AI-Stock-and-Crypto-Trader/pulls)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CCBY--NC--SA4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muscl3n3rd)
 
-
-
-A Sabermetric web application for analyzing MLB strike zone dynamics. SZAS quantifies the alignment and divergences among three distinct strike zones: the textbook rulebook zone, the umpire-called zone, and the batter-swing zone.
+Trading stocks and crypto can be very risky.  This app is not intended for anyone that likes their money.  This hasn't been backtested.  This was literally one-shotted using Claude and I transferred $250 into the account this morning and let the "Crypto Hunter" agent loose.  Do not use this app if you want to save your money.
 
 [Demo](https://geoscout.leboube.ai) • [Quick Start](#quick-start) • [API](#api-endpoints) 
 
