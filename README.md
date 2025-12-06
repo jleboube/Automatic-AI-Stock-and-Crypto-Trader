@@ -1,4 +1,4 @@
-# QQQQ Agents - Autonomous Trading Platform
+# Stock & Crypto Autonomous AI Trading Platform
 
 <div align="center">
 
